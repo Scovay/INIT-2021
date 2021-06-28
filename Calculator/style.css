@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.number {
+    background-color: #90f;
+}
+.symbol {
+    background-color: #09f;
+}
+
+.item {
+    width: 23.42px;
+    color: white;
+    border: none;
+    padding: 5px;
+}
